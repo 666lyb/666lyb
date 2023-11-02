@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你们好，我是善良但菜的中国网友👋
 
 <!--
 **666lyb/666lyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
